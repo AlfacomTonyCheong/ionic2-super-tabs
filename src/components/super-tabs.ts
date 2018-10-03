@@ -26,7 +26,7 @@ import {
   ViewController
 } from 'ionic-angular';
 import { NavigationContainer } from 'ionic-angular/navigation/navigation-container';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs/Rx';
 import { Subscription } from 'rxjs/Subscription';
 import { SuperTabsToolbar } from './super-tabs-toolbar';
 import { SuperTabsContainer } from './super-tabs-container';
